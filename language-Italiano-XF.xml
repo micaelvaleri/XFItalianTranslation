@@ -4878,7 +4878,7 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="this_item_cannot_be_purchased_at_moment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This item cannot be purchased at the moment.]]></phrase>
   <phrase title="this_language_xml_file_was_not_built_for_this_version_of_xenforo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This language XML file was not built for this version of XenForo.]]></phrase>
   <phrase title="this_legacy_add_on_cannot_be_enabled" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Questo add-on legacy non può essere abilitato.]]></phrase>
-  <phrase title="this_link_could_not_be_verified" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[This link could not be verified. Please try from another link.]]></phrase>
+  <phrase title="this_link_could_not_be_verified" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Questo link non può essere verificato. Per favore prova da un altro link.]]></phrase>
   <phrase title="this_link_is_not_usable_by_you" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[This link is not usable by you.]]></phrase>
   <phrase title="this_member_has_not_been_warned" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[This member has not been warned.]]></phrase>
   <phrase title="this_message_is_awaiting_moderator_approval_and_is_invisible_to_normal" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[This message is awaiting moderator approval, and is invisible to normal visitors.]]></phrase>
